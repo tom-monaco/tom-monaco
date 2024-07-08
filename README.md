@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development. 
 - 🌱 I’m currently learning way too much to keep /this/ up to date
 - 💞️ I’m looking to collaborate on nothing, right now.
-- 📫 How to reach me - DM me on twitter @randTomLV
+- 📫 How to reach me - good question.
 
 <!---
 tom-monaco/tom-monaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
