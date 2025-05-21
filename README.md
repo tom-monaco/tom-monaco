@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom Monaco (@tom-monaco)
-- 👀 I’m interested in backend development. 
+- 👀 I’m proficient with backend development, learning frontend.
 - 🌱 I’m currently learning way too much to keep /this/ up to date
 - 💞️ I’m looking to collaborate on nothing, right now.
 - 📫 How to reach me - good question.
